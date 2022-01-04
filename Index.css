@@ -1,0 +1,42 @@
+body {
+background-color: #cccccc;
+}
+
+.container {
+background-color: black;
+margin: auto;
+margin-top: 10%;
+height: 83vw;
+width: 57.15vw;
+text-align: center;
+border-style: outset groove inset ridge;
+border-width: 2.44vw;
+border-color: #222222;
+border-radius: 15px;
+}
+
+#u {
+background-color: #eeeeee;
+color: #444444;
+border-radius: 5px;
+width: 84%;
+height: 19%;
+margin-top: 7%;
+text-align: right;
+padding: 1.2vw 2.44vw 2.44vw;
+font-size: 5.2vw;
+border: 1px solid #cecece;
+outline: none; 
+}
+
+button {
+background-color: #4CAF50;
+border-radius: 4px;
+width: 20%;
+height: 10%;
+border: 0.73vw;
+text-align: center;
+font-size: 16px;
+margin: 1.8% 1.6%;
+cursor: pointer;
+}
